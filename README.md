@@ -6,3 +6,6 @@ This was motivated by Harvard's CS50 and partly includes their distribution code
 
 ### Usage
 Usage: ./plurality [candidate...]
+
+### License
+[Creative Commons](https://creativecommons.org/licenses/by-nc-sa/4.0/)
